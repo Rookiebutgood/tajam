@@ -129,8 +129,9 @@ nav a:hover{
 #player{
 	width: 160px;
 	position: relative;
-	top: -250px;
-	left: 720px;
+	top: -300px;
+	margin-left: auto;
+	margin-right: auto;
 	text-align: center;
 }
 
