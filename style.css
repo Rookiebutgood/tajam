@@ -152,3 +152,33 @@ nav a:hover{
 	text-align: center;
 	font-size: 18px;
 }
+
+.featuresgrid{
+	margin-top: 25px;
+	width: 960px;
+	margin-left: auto;
+    margin-right: auto;
+	display: grid;
+	grid-template-columns: repeat(3, 320px);
+}
+.featurecell{
+	margin:15px;
+	}
+
+.featuresimg{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.featurecell h1{
+	margin-bottom: 5px;
+	font-size: 14px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.featurecell p{
+	margin-top: 10px;
+	font-size: 14px;
+}
