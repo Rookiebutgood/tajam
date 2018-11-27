@@ -33,13 +33,13 @@ header{
 header img{
 	position: absolute;
 	top: 30px;
-	left: 330px;
+	left: 20%;
 }
 
 nav{
 	position: absolute;
 	top: 30px;
-	right: 330px;
+	right: 20%;
 }
 
 nav ul li{
